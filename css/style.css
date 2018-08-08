@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Roboto');
+/*font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;*/
+
+body {
+    background-image:url("../images/background.png")
+}
+
+.logo{
+    /*-right:10%;
+    margin-left:10%;*/
+    margin:auto;
+    display:block;
+}
+
+.navbar{
+    margin-right:35%;
+    margin-left:43%;
+    
+}
+
+#header1{
+    /*margin-right:25%;
+    margin-left:33%;*/
+    text-align:center;
+    font-family:Roboto, sans-serif;
+}
+
+#firstphoto{
+    /*margin-right:28%;
+    margin-left:28%;*/
+    margin:auto;
+    display:block;
+    
+}
+
+.container {
+    padding-bottom: 60px;
+}
+
+.paragraphs{
+    margin-right:8%;
+    margin-left:8%;
+    text-align:justify;
+    font-family:PT Sans, sans-serif;
+    padding-right:10px;
+    padding-left:10px;
+}
+
+#paragraph3{
+    margin-right:8%;
+    margin-left:8%;
+    text-align:justify;
+    text-align:center;
+    font-family:Roboto, sans-serif;
+}
+
+.storyone{
+    margin-right:35%;
+    margin-left:40%;
+    text-align:center;
+}
+
+.storytwo{
+    margin-right:35%;
+    margin-left:40%;
+    text-align:center;
+}
+
+.storythree{
+    margin-right:35%;
+    margin-left:40%;
+    text-align:center;
+}
+
+#header2{
+    /*margin-right:25%;
+    margin-left:41%;*/
+    text-align:center;
+    font-family:Roboto, sans-serif;
+}
+
+#header3{
+    /*margin-right:27%;
+    margin-left:27%;*/
+    text-align:center;
+    font-family:Roboto, sans-serif;
+}
+
+#lastfooter{
+    margin-right:20%;
+    margin-left:44.5%;
+   
+}
+
+#lastsocial{
+    /*-right:50%;
+    margin-left:50%;*/
+    margin:auto;
+    display:block;
+    }
+
+#firstp{
+    background-color:white;
+}
